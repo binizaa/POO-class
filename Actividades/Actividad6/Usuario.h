@@ -11,7 +11,7 @@ using namespace std;
  * Representa un usuario con un nombre de usuario y una contraseña. 
  */
 class Usuario {
-private:
+protected:
     string usuario;      
     string contrasena;   
 
